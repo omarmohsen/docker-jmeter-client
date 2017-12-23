@@ -29,7 +29,7 @@ $   docker run \
         hhcordero/docker-jmeter-client
 ```
 
-Result will be saved as /load_tests/$TEST_DIR/$TEST_PLAN.jtl file. Download the result using scp.
+Result will be saved as /tmp/$TEST_DIR/$TEST_PLAN.jtl file. Download the result using scp.
 
 ### Helper script
 
